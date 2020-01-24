@@ -1,4 +1,4 @@
-# TWRP device tree for Realme RMX1811 (Realme C1)
+# PBRP device tree for Realme RMX1811 (Realme C1)
 
 ## About Device
 
