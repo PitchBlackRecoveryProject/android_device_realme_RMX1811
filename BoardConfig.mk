@@ -83,4 +83,4 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
-PB_TORCH_PATH := "/sys/class/flashlight"
+PB_TORCH_PATH := "/sys/class/leds/led:torch_0"
