@@ -83,6 +83,4 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_THEME := portrait_hdpi
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
-# PBRP specific build flags
 PB_TORCH_PATH := "/sys/class/flashlight"
-
