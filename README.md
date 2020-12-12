@@ -53,7 +53,7 @@ Proximity sensor | Yes
 Accelerometer | Yes
 Ambient light sensor | Yes
 
-**This device tree can be used to build twrp for Realme RMX1811 (Realme C1)**
+**This device tree can be used to build Pitch black Recovery for Realme RMX1811 (Realme C1)**
 
 ## Build Instructions
 ```sh
